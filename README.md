@@ -19,12 +19,17 @@ The project involves:
 ## 🧰 Usage
 
 This repository contains all the Python scripts, Jupyter notebooks, and configuration files used for:
-
+First Data Processing file is capstonenew-Copy1.ipynb
+Model trainiing file is cpatsone code.ipynb
 - Data preprocessing and cleaning  
 - Exploratory data analysis (EDA)  
 - Feature engineering  
 - Model training and evaluation (Logistic Regression, Random Forest, etc.)  
-- Prediction and risk-mapping of RTOR-prone intersections  
+- Prediction and risk-mapping of RTOR-prone intersections
+
+## Tools.
+Python
+Tableau for Visualization
 
 ## 🪪 License
 
